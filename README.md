@@ -15,7 +15,7 @@ Welcome to my certifications repository! This repository contains the profession
 - Familiar with network security concepts like Firewalls, Strong Passwords, and Multi-Factor Authentication (MFA).
 
 ### 📄 Verified Certificate Preview:
-![Cisco Cyber Security Certificate](./certificate.png)
+![Cisco Cyber Security Certificate](./Cyber_Security_Certificate.jpeg)
 
 ---
 *Thank you for visiting my profile!*
